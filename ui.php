@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
 ﻿<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -8,8 +14,6 @@
     <link href="assets/css/bootstrap.css" rel="stylesheet" />
      <!-- FONTAWESOME STYLES-->
     <link href="assets/css/font-awesome.css" rel="stylesheet" />
-     <!-- MORRIS CHART STYLES-->
-    <link href="assets/js/morris/morris-0.4.3.min.css" rel="stylesheet" />
         <!-- CUSTOM STYLES-->
     <link href="assets/css/custom.css" rel="stylesheet" />
      <!-- GOOGLE FONTS-->
@@ -20,7 +24,7 @@
         <nav class="navbar navbar-default navbar-cls-top " role="navigation" style="margin-bottom: 0">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".sidebar-collapse">
-                    <span class="sr-only">Toggle navigation</span>
+                    <span class="sr-only">Navegación</span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
@@ -42,10 +46,10 @@ font-size: 16px;"> Last access : 30 May 2014 &nbsp; <a href="#" class="btn btn-d
 				
 					
                     <li>
-                        <a class="active-menu"  href="index.html"><i class="fa fa-home fa-3x"></i>Inicio</a>
+                        <a  href="index.php"><i class="fa fa-home fa-3x"></i>Inicio</a>
                     </li>
                      <li>
-                        <a  href="ui.html"><i class="fa fa-users fa-3x"></i>Clientes</a>
+                        <a  class="active-menu" href="ui.php"><i class="fa fa-users fa-3x"></i>Clientes</a>
                     </li>
                     <li>
                         <a  href="tab-panel.html"><i class="fa fa-cubes fa-3x"></i>Productos</a>
@@ -172,3 +176,4 @@ font-size: 16px;"> Last access : 30 May 2014 &nbsp; <a href="#" class="btn btn-d
    
 </body>
 </html>
+
