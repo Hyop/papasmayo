@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿<?php require_once 'templates/header.php';?>
+<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
       <meta charset="utf-8" />
@@ -52,7 +53,7 @@ font-size: 16px;"> Last access : 30 May 2014 &nbsp; <a href="#" class="btn btn-d
                         <a   href=""><i class="fa fa-cart-plus fa-3x"></i>Solicitar Producto/Servicio</a>
                     </li>	
                       <li  >
-                          <a  href="agendar.php"><i class="fa fa-calendar fa-3x"></i>Agendar Cliente</a>
+                          <a  href="../Calendario/index.php"><i class="fa fa-calendar fa-3x"></i>Agendar Cliente</a>
                     </li>				
 					
                   <li  >

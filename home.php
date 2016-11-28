@@ -1,3 +1,4 @@
+<?php require_once 'templates/header.php';?>
 <!DOCTYPE html>
 <!--
 To change this license header, choose License Headers in Project Properties.
@@ -57,10 +58,10 @@ font-size: 16px;"> Last access : 30 May 2014 &nbsp; <a href="#" class="btn btn-d
                         <a  href="producto.php"><i class="fa fa-cubes fa-3x"></i>Productos</a>
                     </li>
 						   <li  >
-                        <a   href="chart.html"><i class="fa fa-cart-plus fa-3x"></i>Solicitar Producto/Servicio</a>
+                        <a   href=""><i class="fa fa-cart-plus fa-3x"></i>Solicitar Producto/Servicio</a>
                     </li>	
                       <li  >
-                          <a  href="agendar.php"><i class="fa fa-calendar fa-3x"></i>Agendar Cliente</a>
+                          <a  href="../Calendario/index.php"><i class="fa fa-calendar fa-3x"></i>Agendar Cliente</a>
                     </li>				
 					
                   <li  >
