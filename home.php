@@ -48,19 +48,19 @@ font-size: 16px;"> Last access : 30 May 2014 &nbsp; <a href="#" class="btn btn-d
 				
 					
                     <li>
-                        <a class="active-menu"  href="index.php"><i class="fa fa-home fa-3x"></i>Inicio</a>
+                        <a class="active-menu"  href="home.php"><i class="fa fa-home fa-3x"></i>Inicio</a>
                     </li>
                      <li>
-                        <a  href="ui.php"><i class="fa fa-users fa-3x"></i>Clientes</a>
+                        <a  href="cliente.php"><i class="fa fa-users fa-3x"></i>Clientes</a>
                     </li>
                     <li>
-                        <a  href="tab-panel.html"><i class="fa fa-cubes fa-3x"></i>Productos</a>
+                        <a  href="producto.php"><i class="fa fa-cubes fa-3x"></i>Productos</a>
                     </li>
 						   <li  >
                         <a   href="chart.html"><i class="fa fa-cart-plus fa-3x"></i>Solicitar Producto/Servicio</a>
                     </li>	
                       <li  >
-                        <a  href="table.html"><i class="fa fa-calendar fa-3x"></i>Agendar Cliente</a>
+                          <a  href="agendar.php"><i class="fa fa-calendar fa-3x"></i>Agendar Cliente</a>
                     </li>				
 					
                   <li  >
